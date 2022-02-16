@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="imitationOfAReceipt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/imitationOfAReceipt_jar</output-path>
+    <root id="archive" name="imitationOfAReceipt.jar">
+      <element id="module-output" name="imitationOfAReceipt" />
+    </root>
+  </artifact>
+</component>
